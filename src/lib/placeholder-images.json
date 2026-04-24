@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "mdh-logo",
+      "description": "MDH Spices company logo",
+      "imageUrl": "https://images.unsplash.com/photo-1562705121-e624542c7b9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y29tcGFueSUyMGxvZ298ZW58MHx8fHwxNzY4NzMzODkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "everest-logo",
+      "description": "Everest Spices company logo",
+      "imageUrl": "https://images.unsplash.com/photo-1549924231-f129b911e442?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb21wYW55JTIwbG9nb3xlbnwwfHx8fDE3Njg3MzM4OTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "catch-logo",
+      "description": "Catch Spices company logo",
+      "imageUrl": "https://images.unsplash.com/photo-1562705121-e624542c7b9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y29tcGFueSUyMGxvZ298ZW58MHx8fHwxNzY4NzMzODkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "info-hub-adulterants",
+      "description": "Image for common adulterants info card",
+      "imageUrl": "https://images.unsplash.com/photo-1741521312797-28c6e5466e65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzcGljZSUyMHBvd2RlcnxlbnwwfHx8fDE3Njg4MjM2NTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "spice powder"
+    },
+    {
+      "id": "info-hub-health",
+      "description": "Image for health impacts info card",
+      "imageUrl": "https://images.unsplash.com/photo-1768498950693-0b98e5bf8d3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxoZWFsdGglMjBtZWRpY2FsfGVufDB8fHx8MTc2ODgyMzY0OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "health medical"
+    },
+    {
+      "id": "info-hub-standards",
+      "description": "Image for regulatory standards info card",
+      "imageUrl": "https://images.unsplash.com/photo-1767972463877-b64ba4283cd0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxsYXclMjBkb2N1bWVudHxlbnwwfHx8fDE3Njg4MjM2NDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "law document"
+    }
+  ]
+}
